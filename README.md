@@ -5,7 +5,9 @@ The purpose of this analysis was to determine the plausibility of a surf and ice
 
 ## Results:
 -The average temperature difference is only 4 degrees (75 in June, 71 in December)
+
 -The lowest recorded temperature in December was 56 degrees
+
 -In about 50% of the days in December, the temperature was above 71 degrees 
 
 ## Summary:
